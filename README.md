@@ -19,8 +19,10 @@ This is a simple To-Do List application built using React. It allows users to ad
    cd react-todo-list
 
 2. **Install Dependencies**
+    ```bash
     npm install
 
 3. **Run Project**
+    ```bash
     npm start
 
